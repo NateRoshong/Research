@@ -23,8 +23,7 @@ footer {
 
 }
 .img-fit{
-    width: 50%;
-    height: 50%;
+    width: 75%;
     text-align: right;
     margin-right: 10px;
 }
@@ -45,4 +44,10 @@ footer {
     margin-left: auto;
     margin-right: auto;
     width: 60%;
+}
+.center-para{
+    margin: 10px 15%;
+}
+.dont-touch-touch{
+    margin: 0 10% 0 0;
 }
