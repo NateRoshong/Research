@@ -40,3 +40,9 @@ footer {
     margin-right: 15% ;
     margin-top: 10px;
 }
+#kitty-box-model{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
