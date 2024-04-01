@@ -64,3 +64,55 @@ footer {
     margin: 0;
     width: 75%;
 }
+
+.box{
+    background: rgb(57, 145, 252);
+    height: 100px;
+}
+.box1{
+    background: rgb(3, 109, 239);
+    height: 100px;
+}
+.base{
+    background: rgb(100, 159, 231);
+    height: 100px;
+    width: ;
+}
+.base-space{
+    
+}
+.pad1{
+    padding-top: 50px;
+    border: 3px solid black;
+}
+.pad2{
+    border: 3px solid black;
+    padding-bottom: 50px;
+}
+.pad3{
+    border: 3px solid black;
+    padding-left: 100px;
+}
+.pad4{
+    border: 3px solid black;
+    padding-right: 100px;
+}
+.pad{
+    border: 3px solid black;
+}
+.mag1{
+    border: 3px solid black;
+    margin-top: 70.5px;
+}
+.mag2{
+    border: 3px solid black;
+    margin-bottom: ;
+}
+.mag3{
+    border: 3px solid black;
+    margin-left: 90px;
+}
+.mag4{
+    border: 3px solid black;
+    margin-right: 90px;
+}
