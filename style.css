@@ -99,7 +99,7 @@ footer {
 }
 .mag1{
     border: 3px solid black;
-    margin-top: 70.5px;
+    margin-top: 64px;
 }
 .mag2{
     border: 3px solid black;
@@ -114,7 +114,7 @@ footer {
     margin-right: 90px;
 }
 #side-img{
-    width: 75%;
+    width: 65%;
     display: block;
     margin-left: auto;
     margin-right: auto;
